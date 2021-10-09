@@ -1,3 +1,1 @@
-This is Repo Created for Devops Demo
-This is content written after 1st Commit
-this is new changes
+this is demo file
